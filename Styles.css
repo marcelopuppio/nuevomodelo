@@ -1,0 +1,24 @@
+*{box-sizing: border-box;}
+body{margin:1rem 2rem;
+    background-color: #D4F7D4;
+    height: 40rem;
+    }
+header{    background-color:#559E54;
+    padding:1rem;
+    height: 7rem;
+    
+}
+header h1{color:maroon;}
+nav {background-color: #091034;
+    margin-top:0.1rem;
+height: 3.5rem;}
+nav a{float: left;color:#D4F7D4;
+padding: 1rem;
+text-decoration: none;}
+nav a:hover{background-color: #183BF0;color:#D4F7D4; text-decoration: none;}
+section{height: 26.5rem;}
+footer div div img{float:right; height: 3rem;}
+#imgMail{margin-top:0.6rem; float:left;height: 1.9rem;}
+footer{background-color: #091034;height: 3.5rem; text-align:left;}
+footer h6{padding-top: 0.4rem; color:#FC7307;font-size: 0.8rem;}
+footer h6 img{margin-top: -0.2rem;}
